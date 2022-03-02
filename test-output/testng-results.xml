@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6954" started-at="2022-02-28T21:49:11Z" finished-at="2022-02-28T21:49:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6954" started-at="2022-02-28T21:49:11Z" finished-at="2022-02-28T21:49:17Z">
+      <class name="xboxtestcases.XboxUserGamesTest">
+        <test-method status="PASS" signature="setUpBrowser(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:xboxtestcases.XboxUserGamesTest@5be6e01c]" name="setUpBrowser" is-config="true" duration-ms="1421" started-at="2022-02-28T15:49:11Z" finished-at="2022-02-28T15:49:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method status="PASS" signature="testTopGames()[pri:0, instance:xboxtestcases.XboxUserGamesTest@5be6e01c]" name="testTopGames" duration-ms="2649" started-at="2022-02-28T15:49:12Z" finished-at="2022-02-28T15:49:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTopGames -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:xboxtestcases.XboxUserGamesTest@5be6e01c]" name="tearDown" is-config="true" duration-ms="2876" started-at="2022-02-28T15:49:15Z" finished-at="2022-02-28T15:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- xboxtestcases.XboxUserGamesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
